@@ -1,3 +1,4 @@
+redis:latest
 snowdreamtech/frpc:latest
 nginx
 #支持私库
